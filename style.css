@@ -1,0 +1,11 @@
+.carousel-item img{
+	max-width: 100%;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+}
+footer{
+	background-color: #BCBFC0;
+	margin-top: 0px;
+}
